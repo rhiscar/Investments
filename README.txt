@@ -7,5 +7,3 @@ Curl
 curl -X GET --header 'Accept: text/plain' 'http://localhost:8888/quotes/top10'
 Request URL
 http://localhost:8888/quotes/top10
-
-updatedtest
